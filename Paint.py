@@ -85,7 +85,8 @@ onkey(lambda: color('white'), 'W')
 onkey(lambda: color('green'), 'G')
 onkey(lambda: color('blue'), 'B')
 onkey(lambda: color('red'), 'R')
-#We add other color to options
+
+# RMEV - 22/03/2022 - We add other color to options
 onkey(lambda: color('yellow'), 'Y')
 
 onkey(lambda: store('shape', line), 'l')
