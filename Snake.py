@@ -60,6 +60,16 @@ def move():
     update()
     ontimer(move, 100)
 
+#RAVR - 23/03/2022 - The food is moving one tile in a preselected time where it is created
+def movefood():
+
+    if inside(food):
+        food.x += (randrange(-1, 2) * 10)
+        food.y += (randrange(-1, 2) * 10)
+        
+    ontimer(movefood, 500)
+
+    
 
 setup(420, 420, 370, 0)
 hideturtle()
@@ -70,4 +80,5 @@ onkey(lambda: change(-10, 0), 'Left')
 onkey(lambda: change(0, 10), 'Up')
 onkey(lambda: change(0, -10), 'Down')
 move()
+movefood()
 done()
