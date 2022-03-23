@@ -17,7 +17,7 @@ snake = [vector(10, 0)]
 aim = vector(0, -10)
 
 #RMEV - 23/03/2022 - We add a list of colors and random choices
-color=['black', 'blue', 'yellow', 'purple']
+color=['black', 'blue', 'orange', 'purple']
 c1=random.choice(color)
 c2=random.choice(color)
 
