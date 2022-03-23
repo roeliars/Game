@@ -73,8 +73,9 @@ def move():
     for target in targets:
         if not inside(target):
             return
-
-    ontimer(move, 50)
+    
+    # RMEV - 22/03/2022 - Whee increased the speed of the projectile and the balls
+    ontimer(move, 10)
 
 
 setup(420, 420, 370, 0)
