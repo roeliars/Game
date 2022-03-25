@@ -3,11 +3,11 @@
 # Herramientas computacionales: el arte de la programación (Gpo 101)
 
 <ul>
-  <li><a href="https://github.com/roeliars/Game/blob/main/Paint.py" target="_blank">Actividad 1 - Juego Pintando</a></li>
-  <li><a href="https://github.com/roeliars/Game/blob/main/Snake.py" target="_blank">Actividad 2 - Juego de la Víbora</a></li>
-  <li><a href="https://github.com/roeliars/Game/blob/main/Pacman.py" target="_blank">Actividad 3 - Juego del Pacman</a></li>
-  <li><a href="https://github.com/roeliars/Game/blob/main/Cannon.py" target="_blank">Actividad 4 - Juego del Tiro Parabólico</a></li>
-  <li><a href="https://github.com/roeliars/Game/blob/main/Memory.py" target="_blank">Actividad 5 - Juego de Memoria</a></li>
+  <li><a href="https://github.com/roeliars/Paint" target="_blank">Actividad 1 - Juego Pintando</a></li>
+  <li><a href="https://github.com/roeliars/Snake" target="_blank">Actividad 2 - Juego de la Víbora</a></li>
+  <li><a href="https://github.com/roeliars/Pacman" target="_blank">Actividad 3 - Juego del Pacman</a></li>
+  <li><a href="https://github.com/Raul-VR/Cannon" target="_blank">Actividad 4 - Juego del Tiro Parabólico</a></li>
+  <li><a href="https://github.com/Raul-VR/Memory" target="_blank">Actividad 5 - Juego de Memoria</a></li>
 </ul>
 
 #
